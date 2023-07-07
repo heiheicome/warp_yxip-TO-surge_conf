@@ -1,4 +1,4 @@
-# 纯自用
+# 纯自用 优选ip转surge配置
 电脑安装nodejs
 
 零、  git clone https://github.com/heiheicome/warp_yxip-TO-surge_conf.git 或者 直接下载zip
