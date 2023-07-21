@@ -8,6 +8,6 @@
 贰、  npm i && chmod +x ./warp-darwin-amd64 && ./warp-darwin-amd64  选出优秀ip 等待result.csv 生成
 
 
-```**index.js有一些自定义配置需要看一下先**```
+```**js有一些自定义配置需要看一下先**```
      
 叁、  node index 导出surge.conf直接使用 
