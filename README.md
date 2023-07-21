@@ -10,4 +10,4 @@
 
 ```**js有一些自定义配置需要看一下先**```
      
-叁、  node index 导出surge.conf直接使用 
+叁、  node xxxxx 导出conf直接使用 
